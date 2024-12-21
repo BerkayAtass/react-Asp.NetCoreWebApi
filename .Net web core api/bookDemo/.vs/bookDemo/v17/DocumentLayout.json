@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\.Net web core api\\bookDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{935A061D-191B-4D87-AE0F-BEA7C2673BD4}|bookDemo.csproj|c:\\users\\berka\\onedrive\\masa\u00FCst\u00FC\\.net web core api\\bookdemo\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935A061D-191B-4D87-AE0F-BEA7C2673BD4}|bookDemo.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935A061D-191B-4D87-AE0F-BEA7C2673BD4}|bookDemo.csproj|c:\\users\\berka\\onedrive\\masa\u00FCst\u00FC\\.net web core api\\bookdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935A061D-191B-4D87-AE0F-BEA7C2673BD4}|bookDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935A061D-191B-4D87-AE0F-BEA7C2673BD4}|bookDemo.csproj|c:\\users\\berka\\onedrive\\masa\u00FCst\u00FC\\.net web core api\\bookdemo\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935A061D-191B-4D87-AE0F-BEA7C2673BD4}|bookDemo.csproj|solutionrelative:data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935A061D-191B-4D87-AE0F-BEA7C2673BD4}|bookDemo.csproj|c:\\users\\berka\\onedrive\\masa\u00FCst\u00FC\\.net web core api\\bookdemo\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935A061D-191B-4D87-AE0F-BEA7C2673BD4}|bookDemo.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 283,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\.Net web core api\\bookDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\.Net web core api\\bookDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:57:05.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\.Net web core api\\bookDemo\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\.Net web core api\\bookDemo\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "Data\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:59:33.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\.Net web core api\\bookDemo\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\.Net web core api\\bookDemo\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:10:56.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\.Net web core api\\bookDemo\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\.Net web core api\\bookDemo\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:09:37.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 26,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

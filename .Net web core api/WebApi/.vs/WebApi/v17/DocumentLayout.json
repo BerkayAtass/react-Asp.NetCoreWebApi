@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\.Net web core api\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73FF10CE-9028-4BCF-9087-BE6100D547CA}|WebApi.csproj|c:\\users\\berka\\onedrive\\masa\u00FCst\u00FC\\.net web core api\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FF10CE-9028-4BCF-9087-BE6100D547CA}|WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FF10CE-9028-4BCF-9087-BE6100D547CA}|WebApi.csproj|c:\\users\\berka\\onedrive\\masa\u00FCst\u00FC\\.net web core api\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73FF10CE-9028-4BCF-9087-BE6100D547CA}|WebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FF10CE-9028-4BCF-9087-BE6100D547CA}|WebApi.csproj|c:\\users\\berka\\onedrive\\masa\u00FCst\u00FC\\.net web core api\\webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73FF10CE-9028-4BCF-9087-BE6100D547CA}|WebApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FF10CE-9028-4BCF-9087-BE6100D547CA}|WebApi.csproj|c:\\users\\berka\\onedrive\\masa\u00FCst\u00FC\\.net web core api\\webapi\\repositories\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FF10CE-9028-4BCF-9087-BE6100D547CA}|WebApi.csproj|solutionrelative:repositories\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FF10CE-9028-4BCF-9087-BE6100D547CA}|WebApi.csproj|c:\\users\\berka\\onedrive\\masa\u00FCst\u00FC\\.net web core api\\webapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FF10CE-9028-4BCF-9087-BE6100D547CA}|WebApi.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 283,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\.Net web core api\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\.Net web core api\\WebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwA0AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T19:04:16.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\.Net web core api\\WebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\.Net web core api\\WebApi\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-21T18:59:45.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\.Net web core api\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\.Net web core api\\WebApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-21T18:59:32.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\.Net web core api\\WebApi\\Repositories\\RepositoryContext.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoryContext.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\.Net web core api\\WebApi\\Repositories\\RepositoryContext.cs",
+              "RelativeToolTip": "Repositories\\RepositoryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:53:15.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\.Net web core api\\WebApi\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\.Net web core api\\WebApi\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:49:05.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 26,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
